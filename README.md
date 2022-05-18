@@ -3,6 +3,7 @@ Este projeto realiza a criação de uma tela de login e registro para seus apps
 
 ## 🔧 Funções
 
+- Registrar os usuários da aplicação
 - Garantir acesso restrito a usuários
 - Melhorar a seguraça da sua aplicação
 
