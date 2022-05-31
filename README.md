@@ -29,6 +29,7 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 > - Sqlalchemy
 > - Flask_sqlalchemy
 > - Flask_login
+> - Pandas
 > - Werkzeug
 
 
