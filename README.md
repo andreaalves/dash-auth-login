@@ -22,7 +22,7 @@ Para ver o projeto em tempo real:
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-Utilizando apenas **PYTHON** e as bibliotecas
+Utilizando apenas **PYTHON** e as bibliotecas:
 > - Dash
 > - Dash Bootstrap Components
 > - Sqlite3
