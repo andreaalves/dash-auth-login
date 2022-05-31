@@ -8,7 +8,7 @@ Este projeto realiza a criação de uma tela de login e registro para seus apps
 - Melhorar a seguraça da sua aplicação
 
 
-## 💻 Projeto:
+## 💻 Projeto
 Para ver as aulas do desenvolvimento do projeto completo em vídeo:
 
 <a href = "https://asimov.academy/courses/dashboards-interativos-com-python/licoes/como-adicionar-autenticacao-a-seus-projetos/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey" target="_blank"></a> 
@@ -17,7 +17,7 @@ Para ver o projeto em tempo real:
 
 <a href = "https://dash-auth-login.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
 
-## 👨‍💻 Tecnologias Utilizadas:
+## 👨‍💻 Tecnologias Utilizadas
 
 Utilizando apenas **PYTHON** e as bibliotecas
 > - Dash
@@ -29,7 +29,7 @@ Utilizando apenas **PYTHON** e as bibliotecas
 > - Werkzeug
 
 
-## Conteúdo
+## 📜 Conteúdo
 Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação Web Apps e Dashboards, acesse:
 
 <a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
