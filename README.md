@@ -1,4 +1,4 @@
-# dash-auth-login
+# Dash Auth Login
 Este projeto realiza a criação de uma tela de login e registro para seus apps
 
 ## 🔧 Funções
