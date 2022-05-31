@@ -1,3 +1,6 @@
+![7](https://user-images.githubusercontent.com/63136680/171270521-ffc8fd4e-bcbd-444a-9fcf-df5f3f46535a.jpg)
+
+
 # Dash Auth Login
 Este projeto realiza a criação de uma tela de login e registro para seus apps
 
